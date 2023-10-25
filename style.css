@@ -1,12 +1,14 @@
-body {background-color: blue;}
-h1{
-    text-align: center;
+body {background-color: #cccccc;}
+    
+    #titulo
+{text-align: center;
     font-size: 50px;
+}
 }
 p{
     text-align: center;
 }
-#syntyah{
+.texto{
     font-size: 30px;
     color: blueviolet;
 }
