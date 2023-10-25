@@ -4,13 +4,10 @@ body {background-color: #cccccc;}
 {text-align: center;
     font-size: 50px;
 }
-}
-p{
-    text-align: center;
-}
 .texto{
     font-size: 30px;
     color: blueviolet;
+    text-align: center;
 }
 #passeios {font-size: 45px;}
 }
