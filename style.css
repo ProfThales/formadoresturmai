@@ -3,10 +3,12 @@ body {background-color: #b2c8ba;}
     #titulo
 {text-align: center;
     font-size: 50px;
-color: #0000;}
+color: black;}
 
     .texto{
         text-align: center;
         font-size: 25px;
-        color: #0000
+        color: black;
+
+
     }
