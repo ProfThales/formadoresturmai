@@ -1,4 +1,4 @@
-body {background-color: #D0D4CA;}
+body {background-color: #86A789;}
     
     #titulo
 {text-align: center;
@@ -8,4 +8,5 @@ color: #555843;}
     .texto{
         text-align: center;
         font-size: 25px;
+        color: #555843;
     }
