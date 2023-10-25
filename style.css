@@ -2,5 +2,8 @@ body {background-color: #cccccc;}
     
     #titulo
 {text-align: center;
-    font-size: 50px;
-p {text-align: center;}
+    font-size: 50px;}
+
+    .texto{
+        text-align: center;
+    }
