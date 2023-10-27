@@ -1,7 +1,5 @@
 body {background-color: #b2c8ba;}
 
-.cabeçalho {display:flex}
-
 .container img {
     max-width:1500px;
     max-height:1000px;
