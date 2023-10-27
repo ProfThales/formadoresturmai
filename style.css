@@ -1,11 +1,6 @@
-@import url("styles/header.css");
-@import url("styles/banner.css");
-@import url("styles/carrossel.css");
-@import url("styles/topicos.css");
-@import url("styles/contato.css");
-@import url("styles/rodapé.css");
-
 body {background-color: #b2c8ba;}
+
+.cabeçalho {display:flex}
 
 .container img {
     max-width:1500px;
